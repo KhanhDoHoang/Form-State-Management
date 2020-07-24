@@ -5,7 +5,7 @@ session_start();
 if(isset($_POST["firstNameTextBox"]))
  {
 	$_SESSION["firstName"] = $_POST["firstNameTextBox"];
-	header("Location: Session_RetrieveValues.php");
+	header("Location: Session2.php");
 	exit;
  }
 

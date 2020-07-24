@@ -1,14 +1,4 @@
-<?php
 
-
-
-echo <<<_END
-
-
-
-_END;
-
-?>
 <html>
 	<head>
 		<title>Currency</title>
