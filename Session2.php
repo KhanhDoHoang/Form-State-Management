@@ -52,7 +52,7 @@
             </div>
 
             <div class="column" style="background-color:#bbb;">
-                <form method="GET" action="process.php">
+                <form method="post" >
                 <fieldset>
                     <legend>Employee Information</legend>
                     <?php
